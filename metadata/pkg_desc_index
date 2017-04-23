@@ -1,4 +1,4 @@
 app-misc/galileo 0.4.1 0.4.4: Synchronisation utility for Bluetooth LE-based Fitbit trackers
 media-sound/jivelite 20141213 20141213-r1: Experimental squeezebox and derivative control application
-media-sound/logitechmediaserver-bin 7.8.0 7.8.1_pre20140927 7.9.0_pre20140928 7.9.0_pre20150812 9999: Logitech Media Server (streaming audio server)
+media-sound/logitechmediaserver-bin 7.8.0 7.8.1_pre20140927 7.9.0 9999: Logitech Media Server (streaming audio server)
 media-sound/squeezelite 1.1 1.2 1.8: Squeezelite is a small headless Squeezebox emulator for Linux using ALSA audio output
