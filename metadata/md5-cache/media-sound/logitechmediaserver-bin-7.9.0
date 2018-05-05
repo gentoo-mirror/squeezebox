@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst prepare setup
+DEFINED_PHASES=config install postinst prepare setup
 DEPEND=!media-sound/squeezecenter !media-sound/squeezeboxserver app-arch/unzip virtual/pkgconfig
 DESCRIPTION=Logitech Media Server (streaming audio server)
 EAPI=6
