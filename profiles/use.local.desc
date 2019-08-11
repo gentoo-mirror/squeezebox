@@ -2,3 +2,9 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+media-sound/squeezelite:aac - Supports streaming AAC from the server, utilising media-libs/faad2
+media-sound/squeezelite:flac - Supports streaming FLAC from the server, utilising media-libs/flac
+media-sound/squeezelite:mad - (post-0.9) Supports streaming MP3 from the server, utilising media-libs/libmad
+media-sound/squeezelite:mp3 - (pre-0.9) Supports streaming MP3 from the server, utilising media-libs/libmad
+media-sound/squeezelite:mpg123 - (post-0.9) Supports streaming MP3 from the server, utilising media-sound/mpg123
+media-sound/squeezelite:vorbis - Supports streaming Ogg/Vorbis from the server, utilising media-libs/libvorbis
