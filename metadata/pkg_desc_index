@@ -3,5 +3,5 @@ app-misc/galileo 0.4.1 0.4.4: Synchronisation utility for Bluetooth LE-based Fit
 media-sound/jivelite 20170915: Community logitech media server control application
 media-sound/logitechmediaserver-bin 7.8.0 7.9.0 7.9.1 7.9.2_pre20190615 9999: Logitech Media Server (streaming audio server)
 media-sound/squeeze-controller-bin 0.1.0: A stylish controller app for the Logitech Media Server
-media-sound/squeezelite 1.8.7.1007: Lightweight headless squeezebox client emulator
+media-sound/squeezelite 1.8.7.1007 1.9.4.1182: Lightweight headless squeezebox client emulator
 media-sound/squeezy 20170714: command-line control of squeezebox network players via squeezeserver
