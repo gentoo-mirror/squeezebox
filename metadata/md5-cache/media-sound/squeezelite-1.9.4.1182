@@ -10,5 +10,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=media-libs/alsa-lib flac? ( media-libs/flac ) ffmpeg? ( media-video/ffmpeg ) vorbis? ( media-libs/libvorbis ) mad? ( media-libs/libmad ) mpg123? ( media-sound/mpg123 ) aac? ( media-libs/faad2 ) resample? ( media-libs/soxr ) visexport? ( media-sound/jivelite ) pulseaudio? ( media-plugins/alsa-plugins[pulseaudio] ) media-sound/alsa-utils
 SLOT=0
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	git-r3	3e7ec3d6619213460c85e2aa48398441	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	user	7b7fc6ec5eb1c1eee55b0609f01e7362	user-info	a2abd4e2f4c3b9b06d64bf1329359a02	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	flag-o-matic	09a8beb8e6a8e02dc1e1bd83ac353741	git-r3	3e7ec3d6619213460c85e2aa48398441	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	user	7d67a631c7e23b5232db99bca019ebaf	user-info	a2abd4e2f4c3b9b06d64bf1329359a02	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=613cfa79ce9901773c99eeca3e8b8037
